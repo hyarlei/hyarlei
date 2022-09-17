@@ -1,10 +1,10 @@
 ## Olá, eu sou Hyarlei
-<p>Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.</p>
-<p>😊Tenho muito interesse nessa área e principalmente em aprender as linguagens da programação, busco por vastos conhecimentos referentes a minha área que atuo.</p>
-<p>🌱Atualmente, esto estudando HTML, CSS, JS, COMPUTAÇÃO EM NUVEM E JAVA.</p>
-<p>💻Pretendo ser um desenvolvedor web na área de front-end.</p>
-😃Procuro colaborar bastante em minha área de conhecimento e atuação.
-<p>📱Telefone para contato: (85) 96018321</p>
+<br>Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.</br>
+<br>😊Tenho muito interesse nessa área e principalmente em aprender as linguagens da programação, busco por vastos conhecimentos referentes a minha área que atuo.</br>
+<br>🌱Atualmente, esto estudando HTML, CSS, JS, COMPUTAÇÃO EM NUVEM E JAVA.</br>
+<br>💻Pretendo ser um desenvolvedor web na área de front-end.</br>
+<br>😃Procuro colaborar bastante em minha área de conhecimento e atuação</br>.
+<br>📱Telefone para contato: (85) 96018321</br>
 
 
 <div align="center">
