@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Olá, eu sou Hyarlei
 <br>Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.
 <br>😊Tenho muito interesse nessa área e principalmente em aprender as linguagens da programação, busco por vastos conhecimentos referentes a minha área que atuo.
@@ -5,6 +6,10 @@
 <br>💻Pretendo ser um desenvolvedor web na área de front-end.
 <br>😃Procuro colaborar bastante em minha área de conhecimento e atuação.
 <br>📱Telefone para contato: (85) 96018321</br>
+>>>>>>> 9795fb280eca7289d41e30f10824f6f88fe91b77
+=======
+
+
 
 
 <div align="center">
@@ -16,6 +21,7 @@
   <img align="center" alt="hyarlei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="hyarlei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hyarlei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="hyarlei-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" >
 </div>
   
   ##
