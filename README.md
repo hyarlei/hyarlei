@@ -1,5 +1,5 @@
 ## Olá! eu sou Hyarlei
-<br>Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.
+Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.
 <br>😊Tenho muito interesse nessa área e principalmente em aprender as linguagens da programação, busco por vastos conhecimentos referentes a minha área que atuo.
 <br>🌱Atualmente, esto estudando HTML, CSS, JS, COMPUTAÇÃO EM NUVEM E JAVA.
 <br>💻Pretendo ser um desenvolvedor web na área de front-end.
