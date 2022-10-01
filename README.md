@@ -1,26 +1,27 @@
 ## Olá! eu sou Hyarlei
-Hoje, estou fazendo faculdade na UFC - universidade federal do ceará no curso de sistema da informaçao.
-<br>😊Tenho muito interesse nessa área e principalmente em aprender as linguagens da programação, busco por vastos conhecimentos referentes a minha área que atuo.
-<br>🌱Atualmente, esto estudando HTML, CSS, JS, COMPUTAÇÃO EM NUVEM E JAVA.
-<br>💻Pretendo ser um desenvolvedor web na área de front-end.
-<br>😃Procuro colaborar bastante em minha área de conhecimento e atuação.
-<br>📱Telefone para contato: (85) 96018321
-
-
-
+Today, I am studying at UFC - Federal University of Ceará in the Information System course.
+<br>😊I'm very interested in this area and especially in learning programming languages, I'm looking for vast knowledge regarding my area that I work.
+<br>🌱I am currently studying HTML, CSS, JS, nodeJs, CLOUD COMPUTING AND JAVA.
+<br>👀I intend to be a web developer in the languaje backend area.
+<br>😃I try to collaborate a lot in my area of ​​knowledge and performance.
+<br>📱Phone for contact: (85) 96018321.
+<br>📫my email is hyarleysf@gmail.com.
 
 <div align="center">
   <a href="https://github.com/hyarlei/hyarlei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyarlei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyarlei&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="hyarlei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="hyarlei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="hyarlei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
   
-  ##
+  ##Tecnologia que eu uso no meu dia-dia
  
 <div> 
    <a href="https://telegram.com/hyarlei" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
