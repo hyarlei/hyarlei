@@ -5,7 +5,6 @@ Today, I am studying at UFC - Federal University of Ceará in the Information Sy
 <br>👀I intend to be a web developer in the languaje backend area.
 <br>😃I try to collaborate a lot in my area of ​​knowledge and performance.
 <br>📱Phone for contact: (85) 96018321.
-<br>📫my email is hyarleysf@gmail.com.
 
 <div align="center">
   <a href="https://github.com/hyarlei/hyarlei">
