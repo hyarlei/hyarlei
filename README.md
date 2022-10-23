@@ -3,7 +3,7 @@ Today, I am studying at UFC - Federal University of Ceará in the Information Sy
 <br>😊I'm very interested in this area and especially in learning programming languages, I'm looking for vast knowledge regarding my area that I work.
 <br>🌱I am currently studying HTML, CSS, JS, nodeJs, CLOUD COMPUTING AND JAVA.
 <br>👀I intend to be a web developer in the languaje backend area.
-<br>😃I try to collaborate a lot in my area of ​​knowledge and performance.
+<br>😃I try to collaborate a lot in my area of knowledge and performance.
 <br>📱Phone for contact: (85) 96018321.
 
 <div align="center">
