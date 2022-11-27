@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ Academic in Information System.<br>🔭 I am currently looking for work in my development area.<br>👯 I'm looking to contribute a lot in my area of ​​knowledge and performance.<br>🌱 I'm updating Html, Css, Js, Cloud Computing and Java.<br>⚡ I'm very interested in this area and especially in learning, I'm looking for vast knowledge about my area that I work.
+🏛️ Academic in Information System.<br>🔭 I am currently looking for work in my development area.<br>👯 I'm looking to contribute a lot in my area of ​​knowledge and performance.<br>🌱 I'm using in my day to day Html, Css, Js, Cloud Computing and Java.<br>⚡ I'm very interested in this area and especially in learning, I'm looking for vast knowledge about my area that I work.
 
 
 ## 🌐 Socials:
