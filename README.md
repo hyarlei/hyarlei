@@ -3,6 +3,7 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+system+Student;Web+Developer" alt="Headline"/>
 </div>
+
 🔭 Currently, I'm focused on studying and developing my skills in full-stack development, specializing in backend development using Node.js and TypeScript.
 
 👯 My goal is to contribute my knowledge and skills to the tech industry and make a significant impact in my field.
