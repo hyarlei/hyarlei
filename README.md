@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+system+Student;software+developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+System;Software+Developer" alt="Headline"/>
 </div>
 
 🏛️ Academic in Information System.
