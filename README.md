@@ -77,5 +77,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
+<div align="center"><br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=hyarlei&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
