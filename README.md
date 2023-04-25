@@ -11,7 +11,7 @@
 🌱 I am dedicated to continually improving my skills in the latest front-end development technologies, including JavaScript and its frameworks such as React, as well as HTML preprocessors and CSS preprocessors such as Sass.
 
 ⚡ I am highly motivated to learn and gain a broad understanding of my field, including its various aspects and applications. I am always looking for opportunities to improve my knowledge and expand my skills in the technology industry.<br><br>
-
+#
 <div align="center">
 </a>
   <a href="https://api.whatsapp.com/send?phone=5585996018321" target="_blank">
@@ -31,6 +31,8 @@
   </div>
 <div align="left">
 <br>
+
+#
 
 ## 🔧 Technologies & Tools:
 <div align="center"><br>
@@ -53,8 +55,9 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="25" width="" alt="git logo"/>
 </div><br>
  </div>
- 
-# 📊 GitHub Stats:
+
+#
+## 📊 GitHub Stats:
 <div align="center"><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=hyarlei&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
