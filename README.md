@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hyarlei Silva Freitas
+# 👋 Hi there, I'm Hyarlei Silva
 🏛️ Academic in Information System.<br>
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+system+Student;Web+Developer" alt="Headline"/>
