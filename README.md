@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Hyarlei Silva
-🏛️ Academic in Information System.<br>
+## 👨‍💻About me:<br>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+system+Student;Web+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+System+Student;Web+Developer" alt="Headline"/>
 </div>
+
+🏛️ Academic in Information System.<br>
 
 🔭 Currently, I'm focused on studying and developing my skills in full-stack development, specializing in backend development using Node.js and TypeScript.
 
@@ -11,7 +13,7 @@
 🌱 I am dedicated to continually improving my skills in the latest front-end development technologies, including JavaScript and its frameworks such as React.
 
 ⚡ I am highly motivated to learn and gain a broad understanding of my field, including its various aspects and applications. I am always looking for opportunities to improve my knowledge and expand my skills in the technology industry.<br><br>
-#
+## 📱 Conecte-se comigo:
 <div align="center">
 </a>
   <a href="https://api.whatsapp.com/send?phone=5585996018321" target="_blank">
@@ -32,9 +34,7 @@
 <div align="left">
 <br>
 
-#
-
-## 🔧 Technologies & Tools:
+## 🔧 Everyday technologies and tools:
 <div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
