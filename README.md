@@ -10,7 +10,7 @@
 
 👯 My goal is to contribute my knowledge and skills to the tech industry and make a significant impact in my field.
 
-🌱 I am dedicated to continually improving my skills in the latest front-end development technologies, including JavaScript and its frameworks such as React.
+🌱 I am dedicated to continually improving my skills in the latest BackEnd development technologies, including TypeScript, Node and their frameworks.
 
 ⚡ I am highly motivated to learn and gain a broad understanding of my field, including its various aspects and applications. I am always looking for opportunities to improve my knowledge and expand my skills in the technology industry.<br><br>
 ## 📱 Conecte-se comigo:
