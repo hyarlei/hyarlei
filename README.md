@@ -63,9 +63,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyarlei&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  </div>
 
-<div align="center"><br>
-
 ## 🏆 GitHub Trophies
+<div align="center"><br>
+  
 ![](https://github-profile-trophy.vercel.app/?username=hyarlei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
