@@ -93,10 +93,10 @@ I'm a **Back-end focused developer** specializing in the **Node.js ecosystem (Ty
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">BarberFlow-AI</h3>
+<h3 align="center">CinePrime</h3>
 <div align="center">
-<p>An API for a barbershop management system. Built with Node.js, TypeScript, and Prisma, following Clean Architecture and SOLID principles.</p>
-<a href="https://github.com/hyarlei/BarberFlow-AI" target="_blank">
+<p>Cinema Management System. Built with Node.js, TypeScript, and Prisma, following Clean Architecture and SOLID principles.</p>
+<a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-32C9E1?style=for-the-badge&logo=github"/>
 </a>
 <p align="center">
@@ -108,16 +108,15 @@ I'm a **Back-end focused developer** specializing in the **Node.js ecosystem (Ty
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Paper: Multi-Agent Systems</h3>
+<h3 align="center">Restaurant Menu</h3>
 <div align="center">
-<p>Academic paper on applying Multi-Agent Systems (MAS) to optimize task allocation in dev teams, implemented using the CrewAI library.</p>
-<a href="https://github.com/hyarlei/artigo-sistemas-multiagentes" target="_blank">
+<p>An API to manage a digital menu for restaurants, built with Python, FastAPI, and utilizing Pandas for data processing.</p>
+<a href="https://github.com/hyarlei/API_Cardapio_Restaurantes" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-32C9E1?style=for-the-badge&logo=github"/>
 </a>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-2B3A4A?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-4A90E2?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 </div>
 </td>
@@ -198,10 +197,10 @@ Sou um desenvolvedor com foco em **Back-end**, especializando-me no ecossistema 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">BarberFlow-AI</h3>
+<h3 align="center">CinePrime</h3>
 <div align="center">
-<p>API para um sistema de gerenciamento de barbearias. Construída com Node.js, TypeScript e Prisma, seguindo princípios de Arquitetura Limpa e SOLID.</p>
-<a href="https://github.com/hyarlei/BarberFlow-AI" target="_blank">
+<p>Sistema de Gestão de Cinemas. Construída com Node.js, TypeScript e Prisma, seguindo princípios de Arquitetura Limpa e SOLID.</p>
+<a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Repositório-32C9E1?style=for-the-badge&logo=github"/>
 </a>
 <p align="center">
@@ -213,16 +212,15 @@ Sou um desenvolvedor com foco em **Back-end**, especializando-me no ecossistema 
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Artigo: Sistemas Multiagentes</h3>
+<h3 align="center">Cardapio de Restaurante</h3>
 <div align="center">
-<p>Trabalho acadêmico sobre a aplicação de Sistemas Multiagentes (SMA) para otimização da alocação de tarefas em equipes de desenvolvimento, utilizando a biblioteca CrewAI.</p>
-<a href="https://github.com/hyarlei/artigo-sistemas-multiagentes" target="_blank">
+<p>Uma API para gerenciar um cardápio digital para restaurantes.</p>
+<a href="https://github.com/hyarlei/API_Cardapio_Restaurantes" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Repositório-32C9E1?style=for-the-badge&logo=github"/>
 </a>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-2B3A4A?style=flat-square" />
-<img src="https://img.shields.io/badge/IA-4A90E2?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 </div>
 </td>
