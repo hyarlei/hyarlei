@@ -1,7 +1,7 @@
 # 🧑‍ Hi there, I'm Hyarlei Silva
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Full+Stack+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Fullstack+Developer" alt="Headline"/>
 </div>
 
 <div align="right">
