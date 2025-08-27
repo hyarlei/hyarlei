@@ -141,7 +141,7 @@ Sou um desenvolvedor com foco em **Back-end**, especializando-me no ecossistema 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="180">
       <strong>Back-end</strong>
