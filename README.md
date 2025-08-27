@@ -37,7 +37,7 @@ I'm a **Back-end focused developer** specializing in the **Node.js ecosystem (Ty
 
 ## 🛠️ Tech Stack & Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="180">
       <strong>Back-end</strong>
