@@ -1,7 +1,12 @@
-# 🧑‍ Hi there, I'm Hyarlei Silva
+# 🧑‍💻 Hi there, I'm Hyarlei Silva
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2332C9E1&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Fullstack+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Developer;NestJS+%26+React+Enthusiast;Information+Systems+Student" alt="Headline"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Back--end-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
 </div>
 
 <div align="right">
@@ -12,118 +17,86 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Back-end focused developer** specializing in the **Node.js ecosystem (TypeScript, NestJS, Express)**. As an Information Systems student, my goal is to leverage my skills to build **scalable and efficient software solutions**.
+I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node.js ecosystem (TypeScript, NestJS, Express)**. As an Information Systems student, my goal is to leverage my skills to build **scalable, efficient, and well-architected software solutions**.
 
-- 🔭 Currently focused on enhancing my skills in **microservices architecture** and clean code practices.
-- 🌱 Actively learning about **DevOps with Docker** and exploring **Python with FastAPI**.
-- 🎯 Seeking opportunities to collaborate on challenging projects and grow professionally in the tech industry.
-
-## 📱 Connect with me
-
-<div align="center">
-  <a href="https://api.whatsapp.com/send?phone=5585996018321" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hyarlei-silva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_hyarleisilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:hyarleysf@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+- 🔭 Currently working on **FastFeet**, a complete logistics delivery system.
+- 🚀 Specializing in **Clean Architecture**, **SOLID Principles**, and **Microservices**.
+- 🌱 Actively learning **DevOps (Docker/CI/CD)** and exploring **Python with FastAPI**.
+- 🎯 Seeking opportunities to solve real-world problems through code.
 
 ## 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <strong>Back-end</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="42" alt="nestjs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" width="42" alt="fastapi logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Front-end</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="42" alt="sqlite logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" width="42" alt="prisma logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>DevOps & Tools</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" width="42" alt="insomnia logo" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Back-end</h3>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <h3>Front-end</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <h3>Database & DevOps</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">CinePrime</h3>
-<div align="center">
-<p>Cinema Management System. Built with Node.js, TypeScript, and Prisma, following Clean Architecture and SOLID principles.</p>
-<a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
-<img src="https://img.shields.io/badge/View%20Repository-32C9E1?style=for-the-badge&logo=github"/>
-</a>
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Restaurant Menu</h3>
-<div align="center">
-<p>An API to manage a digital menu for restaurants, built with Python, FastAPI, and utilizing Pandas for data processing.</p>
-<a href="https://github.com/hyarlei/API_Cardapio_Restaurantes" target="_blank">
-<img src="https://img.shields.io/badge/View%20Repository-32C9E1?style=for-the-badge&logo=github"/>
-</a>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚚 FastFeet (Logistics App)</h3>
+      <div align="center">
+        <p>A complete delivery management system. Features a NestJS backend with Clean Arch and a React Dashboard with dynamic tracking.</p>
+        <a href="LINK_DO_SEU_REPOSITORIO_FASTFEET_AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 CinePrime</h3>
+      <div align="center">
+        <p>Cinema Management System API. Built with Node.js and TypeScript, following SOLID principles for robust architecture.</p>
+        <a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 </table>
 
+## 📱 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hyarlei-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:hyarleysf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/_hyarleisilva/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <br>
+<hr>
 <br>
 
 <details>
@@ -133,98 +106,65 @@ I'm a **Back-end focused developer** specializing in the **Node.js ecosystem (Ty
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor com foco em **Back-end**, especializando-me no ecossistema **Node.js (TypeScript, NestJS, Express)**. Atualmente, curso Sistemas de Informação e busco aplicar meus conhecimentos para construir soluções de software escaláveis e eficientes.
+Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especializando-me no ecossistema **Node.js (TypeScript, NestJS, Express)**. Atualmente, curso Sistemas de Informação e busco aplicar meus conhecimentos para construir soluções de software escaláveis, eficientes e bem arquitetadas.
 
-- 🔭 Focado em aprimorar minhas habilidades em **arquitetura de microsserviços** e boas práticas de desenvolvimento.
-- 🌱 Aprendendo ativamente sobre **DevOps com Docker** e explorando **Python com FastAPI**.
-- 🎯 Buscando oportunidades para colaborar em projetos desafiadores e crescer profissionalmente na área de tecnologia.
+- 🔭 Trabalhando atualmente no **FastFeet**, um sistema completo de gestão logística.
+- 🚀 Especializando-me em **Arquitetura Limpa**, **SOLID** e **Microsserviços**.
+- 🌱 Aprendendo ativamente sobre **DevOps (Docker)** e explorando **Python com FastAPI**.
+- 🎯 Buscando oportunidades para resolver problemas reais através do código.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <strong>Back-end</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="42" alt="nestjs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" width="42" alt="fastapi logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Front-end</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Bancos de Dados</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="42" alt="sqlite logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" width="42" alt="prisma logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>DevOps & Ferramentas</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" width="42" alt="insomnia logo" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Back-end</h3>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-## 🚀 Meus Principais Projetos
+  <h3>Front-end</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <h3>Banco de Dados & DevOps</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+## 🚀 Projetos em Destaque
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">CinePrime</h3>
-<div align="center">
-<p>Sistema de Gestão de Cinemas. Construída com Node.js, TypeScript e Prisma, seguindo princípios de Arquitetura Limpa e SOLID.</p>
-<a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Repositório-32C9E1?style=for-the-badge&logo=github"/>
-</a>
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Cardapio de Restaurante</h3>
-<div align="center">
-<p>Uma API para gerenciar um cardápio digital para restaurantes.</p>
-<a href="https://github.com/hyarlei/API_Cardapio_Restaurantes" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Repositório-32C9E1?style=for-the-badge&logo=github"/>
-</a>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚚 FastFeet (Gestão Logística)</h3>
+      <div align="center">
+        <p>Sistema completo para gestão de entregas. Backend em NestJS com Clean Arch e Dashboard React com rastreamento.</p>
+        <a href="LINK_DO_SEU_REPOSITORIO_FASTFEET_AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-7C3AED?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 CinePrime</h3>
+      <div align="center">
+        <p>API de Gestão de Cinemas. Construída com Node.js e TypeScript, seguindo princípios SOLID para arquitetura robusta.</p>
+        <a href="https://github.com/hyarlei/CinePrime_Vue" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-7C3AED?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 </details>
