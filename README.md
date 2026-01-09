@@ -228,12 +228,3 @@ Sou um desenvolvedor com foco em **Back-end**, especializando-me no ecossistema 
 </table>
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyarlei&theme=radical&hide_border=false&show_icons=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyarlei&theme=radical&hide_border=false&layout=compact" />
-</div>
