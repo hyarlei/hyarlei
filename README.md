@@ -56,7 +56,7 @@ I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node
       <h3 align="center">🚚 FastFeet (Logistics App)</h3>
       <div align="center">
         <p>A complete delivery management system. Features a NestJS backend with Clean Arch and a React Dashboard with dynamic tracking.</p>
-        <a href="LINK_DO_SEU_REPOSITORIO_FASTFEET_AQUI" target="_blank">
+        <a href="https://github.com/hyarlei/fasfeet-api" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github"/>
         </a>
         <br/><br/>
@@ -142,7 +142,7 @@ Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especiali
       <h3 align="center">🚚 FastFeet (Gestão Logística)</h3>
       <div align="center">
         <p>Sistema completo para gestão de entregas. Backend em NestJS com Clean Arch e Dashboard React com rastreamento.</p>
-        <a href="LINK_DO_SEU_REPOSITORIO_FASTFEET_AQUI" target="_blank">
+        <a href="https://github.com/hyarlei/fasfeet-api" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-7C3AED?style=for-the-badge&logo=github"/>
         </a>
         <br/><br/>
