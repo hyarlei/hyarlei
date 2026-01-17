@@ -112,7 +112,7 @@ Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especiali
 
 - 🔭 Trabalhando atualmente no **FastFeet**, um sistema completo de gestão logística.
 - 🚀 Especializando-me em **Arquitetura Limpa**, **SOLID** e **Microsserviços**.
-- 🌱 Aprendendo ativamente sobre **DevOps (Docker)** e expandindo a pilha para .NET 8 e C#.
+- 🌱 Aprendendo ativamente sobre **DevOps (Docker)** e expandindo a stack para .NET 8 e C#.
 - 🎯 Buscando oportunidades para resolver problemas reais através do código.
 
 ## 🛠️ Tecnologias e Ferramentas
