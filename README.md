@@ -1,7 +1,7 @@
 # 🧑‍💻 Hi there, I'm Hyarlei Silva
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Developer;NestJS+%26+React+Enthusiast;Information+Systems+Student" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Developer;NodeJS+%26+React+Enthusiast;Information+Systems+Student" alt="Headline"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node
 
 - 🔭 Currently working on **FastFeet**, a complete logistics delivery system.
 - 🚀 Specializing in **Clean Architecture**, **SOLID Principles**, and **Microservices**.
-- 🌱 Actively learning **DevOps (Docker/CI/CD)** and exploring **C# with .NET**.
+- 🌱 Actively learning **DevOps (Docker/CI/CD)** and expanding stack to .NET 8 & C#.
 - 🎯 Seeking opportunities to solve real-world problems through code.
 
 ## 🛠️ Tech Stack & Tools
@@ -112,7 +112,7 @@ Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especiali
 
 - 🔭 Trabalhando atualmente no **FastFeet**, um sistema completo de gestão logística.
 - 🚀 Especializando-me em **Arquitetura Limpa**, **SOLID** e **Microsserviços**.
-- 🌱 Aprendendo ativamente sobre **DevOps (Docker)** e explorando **Python com FastAPI**.
+- 🌱 Aprendendo ativamente sobre **DevOps (Docker)** e expandindo a pilha para .NET 8 e C#.
 - 🎯 Buscando oportunidades para resolver problemas reais através do código.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -120,6 +120,8 @@ Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especiali
 <div align="center">
   <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
