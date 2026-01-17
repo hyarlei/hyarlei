@@ -21,7 +21,7 @@ I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node
 
 - 🔭 Currently working on **FastFeet**, a complete logistics delivery system.
 - 🚀 Specializing in **Clean Architecture**, **SOLID Principles**, and **Microservices**.
-- 🌱 Actively learning **DevOps (Docker/CI/CD)** and exploring **Python with FastAPI**.
+- 🌱 Actively learning **DevOps (Docker/CI/CD)** and exploring **C# with .NET**.
 - 🎯 Seeking opportunities to solve real-world problems through code.
 
 ## 🛠️ Tech Stack & Tools
@@ -29,6 +29,8 @@ I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node
 <div align="center">
   <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
