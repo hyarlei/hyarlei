@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node.js ecosystem (TypeScript, NestJS, Express)**. As an Information Systems student, my goal is to leverage my skills to build **scalable, efficient, and well-architected software solutions**.
+I am a **software developer** primarily focused on **back-end** development, specializing in the **Node.js and .NET ecosystem**. As an Information Systems student, my goal is to leverage my skills to build **scalable, efficient, and well-architected software solutions**.
 
 - 🔭 Currently working on **FastFeet**, a complete logistics delivery system.
 - 🚀 Specializing in **Clean Architecture**, **SOLID Principles**, and **Microservices**.
@@ -108,7 +108,7 @@ I'm a **Fullstack Developer** with a strong focus on **Back-end** and the **Node
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Fullstack** com foco principal em **Back-end**, especializando-me no ecossistema **Node.js (TypeScript, NestJS, Express)**. Atualmente, curso Sistemas de Informação e busco aplicar meus conhecimentos para construir soluções de software escaláveis, eficientes e bem arquitetadas.
+Sou um **Desenvolvedor de Software** com foco principal em **Back-end**, especializando-me no ecossistema **Node.js e .NET. Atualmente, curso Sistemas de Informação e busco aplicar meus conhecimentos para construir soluções de software escaláveis, eficientes e bem arquitetadas.
 
 - 🔭 Trabalhando atualmente no **FastFeet**, um sistema completo de gestão logística.
 - 🚀 Especializando-me em **Arquitetura Limpa**, **SOLID** e **Microsserviços**.
