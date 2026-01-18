@@ -1,4 +1,4 @@
-# 🧑‍💻 Hi there, I'm Hyarlei Silva
+# 🧑 Hi there, I'm Hyarlei Silva
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Developer;NodeJS+%26+React+Enthusiast;Information+Systems+Student" alt="Headline"/>
