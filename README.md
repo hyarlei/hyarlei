@@ -17,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **software developer** primarily focused on **back-end** development, specializing in the **Node.js and .NET ecosystem**. As an Information Systems student, my goal is to leverage my skills to build **scalable, efficient, and well-architected software solutions**.
+I am a **software developer** primarily focused on **back-end** development, specializing in the **Node.js**. As an Information Systems student, my goal is to leverage my skills to build **scalable, efficient, and well-architected software solutions**.
 
 - 🔭 Currently working on **FastFeet**, a complete logistics delivery system.
 - 🚀 Specializing in **Clean Architecture**, **SOLID Principles**, and **Microservices**.
-- 🌱 Actively learning **DevOps (Docker/CI/CD)** and expanding stack to .NET 8 & C#.
+- 🌱 Actively learning **DevOps (Docker/CI/CD)**.
 - 🎯 Seeking opportunities to solve real-world problems through code.
 
 ## 🛠️ Tech Stack & Tools
